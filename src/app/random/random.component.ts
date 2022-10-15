@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./random.component.css']
 })
 export class RandomComponent implements OnInit {
+  //Random Number generator
   randNo=0;
   integerNum=0;
 
